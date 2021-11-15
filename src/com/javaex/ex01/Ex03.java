@@ -2,7 +2,6 @@ package com.javaex.ex01;
 
 public class Ex03 {
 	public static void main(String[] args) {
-		
 		// char은 문자형으로 1글자의 문자만 표시 가능.
 		char ch01 = '1'; // 문자
 		char ch02 = 65; // 정수형(코드값)으로 인식
