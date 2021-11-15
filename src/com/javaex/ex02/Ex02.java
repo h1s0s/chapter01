@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class Ex02 {
 
 	public static void main(String[] args) {
-		
 		//콘솔입력
 		System.out.println("1. 콘솔입력");
 		
@@ -16,6 +15,5 @@ public class Ex02 {
 		System.out.println("입력하신 숫자는 "+num+" 입니다.");
 		
 		sc.close();// 생성한 키보드를 닫아주는 코드
-		
 	}
 }
