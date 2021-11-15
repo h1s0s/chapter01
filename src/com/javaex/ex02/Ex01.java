@@ -49,6 +49,6 @@ public class Ex01 {
 		System.out.println("안녕\"하\"세요");// 안녕"하"세요 \"는 "로 출력
 		System.out.println("안녕\\하\\세요");// 안녕\하\세요 \\는 \로 출력
 		System.out.println("안녕\t하세요");//안녕	하세요 \t는 탭
-		System.out.println("안녕\n하세요");//\n은 개행(엔터)
+		System.out.println("안녕\n하세요.");//\n은 개행(엔터)
 	}
 }
