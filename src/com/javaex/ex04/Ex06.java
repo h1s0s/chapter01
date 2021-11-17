@@ -8,7 +8,6 @@ public class Ex06 {
 			for (int i=1; i<10; i++) {
 				System.out.println(dan+ "*" + i + "=" + dan*i);
 			}
-			int i=1;
 		}
 	}
 
