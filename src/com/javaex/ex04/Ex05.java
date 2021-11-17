@@ -10,7 +10,7 @@ public class Ex05 {
 			result= i+result;
 			System.out.println(i+" 까지의 합은"+(result));
 			}
-			System.out.println("1부터 10까지의 정수의 합은 "+ result +" 입니다.");
+		System.out.println("1부터 10까지의 정수의 합은 "+ result +" 입니다.");
 		}
 	}
 
