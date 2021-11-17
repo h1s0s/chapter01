@@ -3,7 +3,7 @@ package com.javaex.ex04;
 public class Ex07 {
 
 	public static void main(String[] args) {
-		//별 한줄에 여섯개 찍는 예제 문제
+		//for 반복문 연습문제(중첩반복문)-1
 		//내가 짠 코드
 //		for(int x=0; x<6; y++) {
 //			System.out.print("*");
