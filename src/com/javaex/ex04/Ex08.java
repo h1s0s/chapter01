@@ -40,7 +40,7 @@ public class Ex08 {
 //	}
 //
 //}
-		//강사님이 짠 코드
+		//강사님이 짠 코드 ★★★★★ 응용하기 어려운 부분,, 많이 해보기
 		for(int y=1; y<=6; y++) {
 			for(int x=1; x<=y; x++) {
 				System.out.print("*");
