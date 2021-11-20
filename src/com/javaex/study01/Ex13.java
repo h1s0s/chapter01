@@ -29,6 +29,7 @@ public class Ex13 {
 		int[] intArray2 = new int[] {1,2,3,4};
 		int[] intArray3 = {1,2,3};
 		//배열 복사 방법
+		System.out.println(intArray2);
 		System.out.println("배열복사=====");
 		int[] intArray4 = new int[3];//선언
 		intArray4[0] = intArray3[0];//초기화 선언
